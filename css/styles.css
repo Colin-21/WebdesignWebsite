@@ -15,7 +15,9 @@ footer{
 }
 img {
 
-  width: 20 px;
+  height: 20px;
+  width: 100%;
+
 }
 #TitleHeader{
     padding-left: .5rem;
