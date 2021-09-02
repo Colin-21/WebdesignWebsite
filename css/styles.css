@@ -13,8 +13,9 @@
 footer{
     padding-top: 3.5rem;
 }
-svg{
-
+img {
+  width: 100%;
+  height: auto;
 }
 #TitleHeader{
     padding-left: .5rem;
